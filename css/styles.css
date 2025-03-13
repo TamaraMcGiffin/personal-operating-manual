@@ -3,13 +3,8 @@
 
 body {
   font-family: Arial, Helvetica, sans-serif;
+  background: url(/images/background-swirlyblue.webp);
   color: #ffffff;
-  background-image: url(/images/background-swirlyblue.webp);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-
-  height: 100vh;
   padding: 0;
   margin: 0;
 }
